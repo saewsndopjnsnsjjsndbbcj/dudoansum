@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // Khai báo API URL chính xác
-const API_URL = 'https://suncoc.onrender.com/latest'; 
+const API_URL = 'https://lichsusumcl.onrender.com/latest'; 
 
 // =======================
 // BOT AI PREDICTION SYSTEM
